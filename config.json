@@ -1,0 +1,22 @@
+{
+  "configuration": {
+    "virutal-server-id": 1,
+    "query-password": "Y4m8jYBK",
+    "query-address": "ts.playts.eu",
+    "query-port": 10011,
+    "query-login": "xmonek",
+    "groupid-id": 123,
+    "icons-id": [
+      -2061357324,
+      152560062,
+      -858448332,
+      1999095658,
+      -1764137203,
+      -2039263126,
+      2016054964,
+      -687979140
+    ],
+    "ms": 250,
+    "debug": false
+  }
+}
